@@ -32,7 +32,7 @@ This dashboard helps answer key business questions such as:
 # 📊 Dashboard Preview
 
 <p align="center">
-    <img src="dashboard_images/dashboard.png" width="100%" alt="E-Commerce Store Analysis Dashboard">
+    <img src="Ayush Presentation img.png" width="100%" alt="E-Commerce Store Analysis Dashboard">
 </p>
 
 ---

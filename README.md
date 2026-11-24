@@ -156,7 +156,7 @@ git clone https://github.com/AyushGupta29/E-Commerce-Store-Analysis.git
 
 # 📁 Repository Structure
 
-```text
+```
 E-Commerce-Store-Analysis/
 │
 ├── README.md
@@ -172,6 +172,34 @@ E-Commerce-Store-Analysis/
     └── business_queries.sql
     └── dashboard.png
 ```
+# 🔮 Future Enhancements
+
+- Customer Segmentation Analysis
+- Sales Forecasting
+- Inventory Analysis
+- Customer Lifetime Value (CLV)
+- Profitability Forecasting
+- Automated Data Refresh
+- Power BI Service Deployment
+
+---
+
+# 🏷️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-orange?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
+
+---
+
+# 📌 Conclusion
+
+This project demonstrates my ability to analyze e-commerce sales data and transform it into actionable business insights using **Microsoft Power BI**.
+
+By combining data modeling, DAX calculations, interactive dashboards, and business analysis techniques, this project enables users to monitor performance, identify trends, and support informed business decisions.
+
 
 ---
 

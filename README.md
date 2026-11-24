@@ -166,7 +166,7 @@ E-Commerce-Store-Analysis/
 │   └── Details.csv
 │
 ├── dashboard_images/
-│   └── dashboard.png
+│   └──Ayush Presentation img.png
 │
 └── sql/
     └── business_queries.sql
